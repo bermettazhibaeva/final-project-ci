@@ -1,6 +1,6 @@
 # Overview
 
-test
+testing
 
 This repository is an integral part of the learning project designed for training purposes. It contains the application code and its CI for integration into the infrastructure described in this repository:
 https://github.com/tntk-io/tntk-infra
